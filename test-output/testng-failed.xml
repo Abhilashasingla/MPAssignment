@@ -3,11 +3,11 @@
 <suite parallel="none" name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test parallel="none" name="Default test(failed)">
     <classes>
-      <class name="MPokket.APITests.CreateData">
+      <class name="MPokket.APITests.DeleteData">
         <methods>
-          <include name="CreateEntry"/>
+          <include name="DeleteEmployeeData"/>
         </methods>
-      </class> <!-- MPokket.APITests.CreateData -->
+      </class> <!-- MPokket.APITests.DeleteData -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
